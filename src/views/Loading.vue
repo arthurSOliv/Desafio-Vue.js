@@ -36,7 +36,7 @@ export default {
         }
       }
       this.value += 5;
-    }, 500);
+    }, 100);
   },
 };
 </script>
