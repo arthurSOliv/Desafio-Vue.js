@@ -1,5 +1,11 @@
 # mediapp
 
+Sobre: 
+
+App para gestão de medicamentos, onde se tem a visão do administrador e do vendedor:
+O projeto foi desenvolvido usando o framework VueJS e a biblioteca Vuetify
+Por enquanto os dados estão sendo armazenados no localstorage.
+
 Funcionalidades:
 
 Cadastro de usuário
